@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi, I'm Harshith 👋  
+Full-stack developer focused on building AI-powered web applications and scalable backend systems.
 
-<!--
-**harshith-pendyala/harshith-pendyala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack
+React • Next.js • TypeScript • Node.js • PostgreSQL • Tailwind • AI APIs
 
-Here are some ideas to get you started:
+## Featured Projects
+- DealDrop (price tracking automation system)
+- AI Movie Recommendation Platform (Netflix-GPT upgrade)
+- Video Streaming Platform (YouTube clone but production-grade)
+- Creator Analytics Dashboard (YouTubeStats evolution)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Currently Learning
+- System design
+- Backend scaling patterns
+- AI agent workflows
+
+## Connect
+- 🔗 LinkedIn: https://www.linkedin.com/in/harshith-pendyala
